@@ -1,0 +1,97 @@
+,time,jogo,ouro,abates,tempo,torres,inibidores,barons,dragons,arautos,top,jg,mid,adc,sup,lado
+0,DWG KIA,1,59.1,18,29.41,11,2,1,3,2,Graves,Trundle,LeBlanc,Miss Fortune,Yuumi,0
+1,FunPlus Phoenix,0,44.1,2,29.41,2,0,0,0,0,Jayce,Jarvan IV,Galio,Kai'Sa,Nautilus,1
+2,RNG,1,69.7,16,37.26,11,3,0,4,2,Syndra,Jarvan IV,Twisted Fate,Miss Fortune,Rell,0
+3,PSG Talon,0,61.6,9,37.26,3,0,1,1,0,Kennen,Lee Sin,Tryndamere,Aphelios,Thresh,1
+4,Hanwha Life,1,65.6,25,31.42,9,1,2,3,1,Kennen,Lee Sin,Yasuo,Aphelios,Thresh,0
+5,Fnatic,0,50.0,5,31.42,2,0,0,1,1,Sett,Graves,Ryze,Miss Fortune,Braum,1
+6,LNG Esports,0,37.0,1,23.42,3,0,0,0,0,Gwen,Lee Sin,Sylas,Aphelios,Rakan,0
+7,Gen.G,1,42.9,8,23.42,8,1,0,4,2,Renekton,Xin Zhao,Zoe,Miss Fortune,Leona,1
+8,T1,1,46.0,22,19.53,11,3,0,1,2,Graves,Talon,Azir,Jhin,Yuumi,0
+9,DetonatioN FM,0,28.8,2,19.53,0,0,0,0,0,Sett,Lillia,Orianna,Ezreal,Leona,1
+10,EDward Gaming,1,60.1,19,28.31,9,1,1,3,2,Graves,Lee Sin,LeBlanc,Kai'Sa,Nautilus,0
+11,100 Thieves,0,44.6,6,28.31,1,0,0,0,0,Aatrox,Jarvan IV,Zoe,Miss Fortune,Yuumi,1
+12,Team Liquid,1,51.0,16,27.08,8,1,1,2,2,Camille,Xin Zhao,LeBlanc,Ezreal,Leona,0
+13,MAD Lions,0,44.6,9,27.08,2,0,0,1,0,Jax,Jarvan IV,Twisted Fate,Aphelios,Rell,1
+14,Rogue,1,65.0,16,32.34,10,2,1,2,2,Rumble,Qiyana,Twisted Fate,Lucian,Nami,0
+15,Cloud9,0,51.8,8,32.34,1,0,0,1,0,Gnar,Xin Zhao,Sylas,Miss Fortune,Yuumi,1
+16,T1,0,59.5,4,36.49,3,0,1,0,0,Jayce,Xin Zhao,Twisted Fate,Ziggs,Shen,0
+17,EDward Gaming,1,71.8,16,36.49,11,3,1,4,2,Graves,Jarvan IV,Sylas,Jhin,Leona,1
+18,Rogue,0,61.4,9,37.03,4,0,1,0,0,Graves,Fiddlesticks,Orianna,Lucian,Nami,0
+19,DWG KIA,1,69.2,15,37.03,8,1,0,5,2,Jax,Talon,Ryze,Aphelios,Lulu,1
+20,PSG Talon,1,71.5,21,38.06,10,2,2,3,1,Gwen,Talon,LeBlanc,Jhin,Yuumi,0
+21,Hanwha Life,0,61.8,9,38.06,3,0,0,3,1,Camille,Jarvan IV,Azir,Draven,Pyke,1
+22,Fnatic,0,53.8,13,30.5,3,0,0,1,1,Olaf,Lee Sin,Sylas,Ashe,Pyke,0
+23,RNG,1,67.6,34,30.5,10,2,2,2,1,Kennen,Viego,Twisted Fate,Kai'Sa,Rell,1
+24,Cloud9,0,69.9,13,36.44,9,1,1,2,1,Camille,Qiyana,Ryze,Ezreal,Leona,0
+25,FunPlus Phoenix,1,67.9,13,36.44,8,1,1,3,1,Kennen,Jarvan IV,Malzahar,Miss Fortune,Rakan,1
+26,DetonatioN FM,0,51.4,7,33.07,2,0,0,0,1,Gnar,Lee Sin,Zoe,Miss Fortune,Rakan,0
+27,100 Thieves,1,63.5,19,33.07,9,1,1,4,1,Graves,Viego,Ryze,Lucian,Nami,1
+28,MAD Lions,1,90.4,30,46.59,11,3,2,4,1,Wukong,Qiyana,LeBlanc,Lucian,Yuumi,0
+29,Gen.G,0,80.7,19,46.59,5,1,1,3,1,Graves,Xin Zhao,Azir,Kalista,Nautilus,1
+30,Team Liquid,0,43.0,1,29.06,2,0,0,1,2,Gnar,Talon,Twisted Fate,Ezreal,Leona,0
+31,LNG Esports,1,54.3,15,29.06,9,1,0,3,0,Fiora,Viego,LeBlanc,Aphelios,Thresh,1
+32,RNG,1,73.6,19,40.25,9,1,0,3,0,Lucian,Lee Sin,Twisted Fate,Ziggs,Sett,0
+33,Hanwha Life,0,70.1,16,40.25,5,0,2,2,2,Camille,Viego,Sylas,Kai'Sa,Leona,1
+34,MAD Lions,0,43.0,6,26.27,3,0,0,0,2,Gnar,Xin Zhao,Ryze,Aphelios,Thresh,0
+35,LNG Esports,1,51.3,20,26.27,7,1,1,3,0,Camille,Lee Sin,Syndra,Jhin,Leona,1
+36,FunPlus Phoenix,1,64.7,18,34.25,9,1,1,4,2,Jayce,Viego,Ryze,Jhin,Leona,0
+37,Rogue,0,53.0,5,34.25,2,0,0,1,0,Rumble,Lee Sin,LeBlanc,Miss Fortune,Braum,1
+38,PSG Talon,1,84.0,20,46.11,8,1,2,3,1,Gangplank,Lee Sin,Sylas,Miss Fortune,Braum,0
+39,Fnatic,0,80.5,12,46.11,6,0,1,4,1,Kennen,Jarvan IV,Tryndamere,Jhin,Thresh,1
+40,Gen.G,1,75.6,23,38.29,11,4,2,3,2,Camille,Trundle,Sylas,Miss Fortune,Amumu,0
+41,Team Liquid,0,65.7,15,38.29,2,0,1,2,0,Jax,Sejuani,Irelia,Ziggs,Shen,1
+42,DWG KIA,1,64.4,15,32.27,11,4,2,4,2,Graves,Xin Zhao,Twisted Fate,Jhin,Rell,0
+43,Cloud9,0,51.0,7,32.27,1,0,0,0,0,Jax,Qiyana,Ryze,Miss Fortune,Leona,1
+44,EDward Gaming,1,62.9,15,32.0,11,3,1,1,0,Jayce,Lee Sin,Twisted Fate,Ezreal,Braum,0
+45,DetonatioN FM,0,49.7,8,32.0,2,0,0,2,2,Poppy,Talon,Sylas,Jhin,Leona,1
+46,100 Thieves,0,44.5,3,29.5,1,0,1,0,0,Renekton,Trundle,LeBlanc,Lucian,Nami,0
+47,T1,1,56.1,17,29.5,10,2,0,3,2,Kennen,Poppy,Twisted Fate,Aphelios,Lulu,1
+48,FunPlus Phoenix,0,51.5,4,29.56,5,0,0,2,2,Gragas,Lee Sin,Irelia,Jhin,Braum,0
+49,DWG KIA,1,57.6,14,29.56,9,1,1,2,0,Jayce,Poppy,Twisted Fate,Miss Fortune,Leona,1
+50,Cloud9,1,54.1,17,25.23,9,1,1,2,1,Graves,Lillia,Irelia,Miss Fortune,Leona,0
+51,Rogue,0,41.9,7,25.23,1,0,0,0,1,Gwen,Qiyana,Ryze,Draven,Braum,1
+52,FunPlus Phoenix,0,44.6,4,28.14,2,0,0,0,0,Graves,Jarvan IV,Rumble,Kai'Sa,Rell,0
+53,Cloud9,1,57.0,18,28.14,9,1,1,3,2,Jayce,Xin Zhao,Twisted Fate,Tristana,Rakan,1
+54,DWG KIA,1,74.1,19,37.29,10,2,2,4,1,Lucian,Qiyana,Twisted Fate,Draven,Thresh,0
+55,Rogue,0,60.9,11,37.29,3,0,0,2,1,Jayce,Olaf,Ryze,Miss Fortune,Leona,1
+56,Rogue,1,75.5,21,40.57,10,1,0,3,0,Jayce,Fiddlesticks,LeBlanc,Lucian,Nami,0
+57,FunPlus Phoenix,0,69.0,14,40.57,5,1,1,2,2,Kennen,Lee Sin,Sylas,Aphelios,Lulu,1
+58,Cloud9,0,64.9,15,38.58,3,0,0,4,2,Kennen,Graves,Twisted Fate,Kai'Sa,Leona,0
+59,DWG KIA,1,76.1,21,38.58,11,3,2,2,0,Jax,Lee Sin,Kassadin,Miss Fortune,Shen,1
+60,DetonatioN FM,0,37.1,2,25.54,0,0,0,0,0,Poppy,Xin Zhao,LeBlanc,Jhin,Alistar,0
+61,EDward Gaming,1,52.6,15,25.54,9,1,0,3,2,Jayce,Talon,Lissandra,Miss Fortune,Rakan,1
+62,T1,1,56.6,8,31.46,8,1,1,2,2,Jayce,Jarvan IV,Zoe,Aphelios,Thresh,0
+63,100 Thieves,0,48.2,3,31.46,2,0,0,2,0,Malphite,Lee Sin,Orianna,Ezreal,Leona,1
+64,EDward Gaming,0,40.2,1,25.5,2,0,0,0,0,Jayce,Talon,Ryze,Miss Fortune,Yuumi,0
+65,T1,1,50.3,13,25.5,10,1,1,3,2,Kennen,Poppy,Twisted Fate,Aphelios,Lulu,1
+66,100 Thieves,1,85.6,20,49.21,7,1,0,4,2,Gangplank,Lee Sin,Sylas,Kai'Sa,Alistar,0
+67,DetonatioN FM,0,87.5,22,49.21,9,3,2,3,0,Tryndamere,Poppy,Twisted Fate,Miss Fortune,Leona,1
+68,DetonatioN FM,0,39.0,4,27.02,2,0,0,1,0,Renekton,Shaco,Zoe,Jhin,Yuumi,0
+69,T1,1,51.9,10,27.02,11,3,1,1,2,Graves,Qiyana,Orianna,Aphelios,Lulu,1
+70,100 Thieves,1,68.2,21,35.33,9,1,1,4,1,Kennen,Viego,Ryze,Lucian,Nami,0
+71,EDward Gaming,0,56.2,4,35.33,3,0,0,1,1,Graves,Xin Zhao,Syndra,Aphelios,Lulu,1
+72,Hanwha Life,1,61.4,15,29.59,9,1,2,4,2,Renekton,Viego,Twisted Fate,Aphelios,Thresh,0
+73,PSG Talon,0,45.4,2,29.59,3,0,0,0,0,Graves,Xin Zhao,Sylas,Miss Fortune,Leona,1
+74,RNG,0,66.7,28,37.31,5,0,0,2,1,Gragas,Lee Sin,LeBlanc,Aphelios,Rell,0
+75,Fnatic,1,75.3,26,37.31,10,2,2,4,1,Jayce,Viego,Ryze,Miss Fortune,Nautilus,1
+76,PSG Talon,0,49.9,8,32.23,1,0,0,1,1,Gwen,Talon,LeBlanc,Jhin,Yuumi,0
+77,RNG,1,59.2,10,32.23,9,1,0,4,1,Camille,Jarvan IV,Twisted Fate,Miss Fortune,Nautilus,1
+78,Fnatic,0,74.8,23,43.15,4,0,0,2,1,Olaf,Xin Zhao,Twisted Fate,Miss Fortune,Rakan,0
+79,Hanwha Life,1,80.5,26,43.15,11,3,1,4,1,Renekton,Viego,LeBlanc,Ezreal,Leona,1
+80,Hanwha Life,1,66.5,15,36.12,8,1,1,4,2,Aatrox,Lee Sin,Sylas,Aphelios,Rakan,0
+81,RNG,0,57.2,5,36.12,3,0,0,1,0,Gwen,Jarvan IV,Twisted Fate,Miss Fortune,Braum,1
+82,Fnatic,0,63.4,15,36.36,4,0,0,1,1,Graves,Viego,Zoe,Xayah,Rakan,0
+83,PSG Talon,1,76.2,33,36.36,11,4,2,4,1,Jayce,Jarvan IV,Syndra,Miss Fortune,Nautilus,1
+84,Gen.G,1,75.5,18,39.45,8,1,1,4,0,Graves,Lee Sin,Syndra,Aphelios,Rakan,0
+85,MAD Lions,0,70.4,12,39.45,7,1,2,1,2,Gwen,Viego,Azir,Miss Fortune,Leona,1
+86,LNG Esports,0,49.2,4,30.13,4,0,0,2,0,Gwen,Viego,Lissandra,Ezreal,Yuumi,0
+87,Team Liquid,1,57.7,12,30.13,11,2,1,3,2,Graves,Trundle,LeBlanc,Tristana,Rell,1
+88,Gen.G,0,56.0,7,34.34,2,0,1,0,0,Irelia,Lee Sin,Azir,Aphelios,Lulu,0
+89,LNG Esports,1,67.6,22,34.34,11,3,0,4,2,Fiora,Xin Zhao,Syndra,Miss Fortune,Rakan,1
+90,MAD Lions,1,73.2,15,37.14,9,1,2,3,2,Kennen,Viego,Sylas,Miss Fortune,Rakan,0
+91,Team Liquid,0,62.5,10,37.14,4,0,0,2,0,Jarvan IV,Trundle,Twisted Fate,Aphelios,Thresh,1
+92,Team Liquid,1,65.5,16,35.03,9,2,1,5,1,Gnar,Lee Sin,Syndra,Jhin,Rakan,0
+93,Gen.G,0,59.9,9,35.03,6,0,0,0,1,Renekton,Taliyah,Yone,Miss Fortune,Leona,1
+94,LNG Esports,0,51.6,7,31.22,2,0,0,2,0,Jax,Lee Sin,Irelia,Ziggs,Leona,0
+95,MAD Lions,1,64.4,17,31.22,11,4,2,2,2,Gwen,Poppy,Orianna,Lucian,Nami,1
